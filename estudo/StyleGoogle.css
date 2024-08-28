@@ -1,0 +1,49 @@
+.fundo
+{
+	background-color: #f0f4f9;
+}
+
+.divCentro
+{
+	margin-left: 13%;
+	margin-right: 13%;
+	margin-top: 8%;
+	background-color: white;
+	border-radius: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+
+.hdLeft
+{
+	margin-left: 35px;
+	font-size: 32px;
+	font-family: Arial;
+}
+
+.txtLeft
+{
+	margin-left: 35px;
+	font-size: 17px;
+	font-family: Arial;
+}
+
+.form
+{
+	padding: 20px;
+	font-size: 16px;
+	width: 455px;
+	margin-right: 35px;
+	margin-top: 115px;
+	border-radius: 5px;
+}
+
+.btn btn-primary
+{
+ 	
+}
